@@ -135,7 +135,7 @@ body {
   /* color: #343a40; */
   letter-spacing: -0.5px;
 }
-
+.author-name,
 .heading-primary {
   font-size: 5.2rem;
   line-height: 1.06;
